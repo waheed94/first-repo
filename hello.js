@@ -1,1 +1,5 @@
-console.log("hello world");
+// hello.js
+
+var print = function (word) {
+    console.log(word)
+}
